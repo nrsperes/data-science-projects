@@ -1,4 +1,4 @@
-# Data Science Projects
+## Data Science Projects
 
 This is a repository for Data Science and Machine Learning projects that I have developed using Python and Jupyter Notebook. The projects are from courses that I took on [Udemy](https://www.udemy.com/) — see below — or from [Kaggle](https://www.kaggle.com/).
 
